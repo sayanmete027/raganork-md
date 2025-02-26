@@ -7,7 +7,7 @@
 
 </div>
 
-## _Note: Use a VPN according to the server you choose if the session logs out automatically._
+## _Note: Use a (TURBOB-VPN)VPN according to the server you choose if the session logs out automatically._
 <br>
 
 <div align="center">
